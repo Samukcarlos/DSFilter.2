@@ -1,0 +1,17 @@
+.product-card {
+  padding: 10px;
+  border: 1px solid var(--dsc-color-font-secondary);
+  border-radius: 5px;
+}
+
+.product-card h3 {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--dsc-color-font-primary);
+}
+
+.product-card p {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--dsc-color-font-secondary);
+}

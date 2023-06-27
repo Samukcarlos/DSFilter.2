@@ -1,0 +1,22 @@
+header {
+  height: 70px;
+  background-color: var(--dsc-color-bg-tertiary);
+  color: var(--dsc-color-font-tertiary);
+  display: flex;
+  align-items: center;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-content h1 {
+  font-size: 20px;
+}
+
+.header-content p {
+  font-size: 12px;
+  font-weight: 700;
+}

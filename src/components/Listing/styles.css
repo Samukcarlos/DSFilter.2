@@ -1,0 +1,4 @@
+.product-listing-container {
+  display: grid;
+  grid-gap: 10px;
+}
